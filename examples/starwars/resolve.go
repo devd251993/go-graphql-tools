@@ -1,7 +1,7 @@
 package starwars
 
 import (
-	"github.com/arvitaly/go-graphql-tools"
+	tools "github.com/devd251993/go-graphql-tools"
 	"github.com/graphql-go/relay"
 )
 

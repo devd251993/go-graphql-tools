@@ -3,7 +3,7 @@ package tools
 import (
 	"testing"
 
-	"github.com/arvitaly/graphql"
+	"github.com/devd251993/graphql"
 	"github.com/graphql-go/graphql/language/ast"
 )
 

@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/arvitaly/go-graphql-tools/test"
-	"github.com/arvitaly/graphql"
+	"github.com/devd251993/go-graphql-tools/test"
+	"github.com/devd251993/graphql"
 	"github.com/graphql-go/relay"
 	"golang.org/x/net/context"
 )

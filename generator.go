@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/arvitaly/graphql"
+	"github.com/devd251993/graphql"
 )
 
 type Resolver interface {
@@ -368,4 +368,3 @@ func lU(s string) string {
 	a[0] = unicode.ToUpper(a[0])
 	return string(a)
 }
-
